@@ -18,10 +18,10 @@ Atuar como estagiária na área de tecnologia, contribuindo com projetos reais e
 
 Tenho interesse em atuar nas seguintes áreas da tecnologia, alinhadas com os conhecimentos que venho desenvolvendo ao longo da minha formação:
 
-Desenvolvimento Web Front-end
-Criação de interfaces responsivas e interativas utilizando HTML, CSS e JavaScript, com foco na experiência do usuário.
+Desenvolvimento Front-end
+Criação de interfaces com design adaptável e interativo utilizando HTML, CSS e JavaScript, com foco na experiência do usuário.
 
-Desenvolvimento Web Back-end
+Desenvolvimento Back-end
 Implementação da lógica de servidor e integração com bancos de dados utilizando Java e SQL.
 
 Banco de Dados
