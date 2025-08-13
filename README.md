@@ -1,4 +1,4 @@
-# 👩💻 Samyra Caitano Leoncio
+# 👩🏽‍💻​ Samyra Caitano Leoncio
 
 Meu nome é **Samyra Caitano Leoncio**, tenho 19 anos e sou estudante de **Ciência da Computação** na **Universidade Cruzeiro do Sul**, campus São Miguel Paulista. Atualmente estou no terceiro semestre e busco uma oportunidade de estágio para aplicar meus conhecimentos, desenvolver habilidades práticas e crescer profissionalmente na área de tecnologia.
 
@@ -27,15 +27,12 @@ Implementação da lógica de servidor e integração com bancos de dados utiliz
 Banco de Dados
 Modelagem, consulta e manutenção de dados com SQL, aplicando boas práticas de organização e segurança da informação.
 
-Desenvolvimento Full Stack
-Integração entre front-end e back-end para construção de aplicações completas e funcionais..
 
 ## 📫 Contato
 
-- E-mail: [samyra.caitano@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/samyra-caitano-b80634357]
-- GitHub: [Samyra19]
+[Entre em contato comigo](samyra.caitano@gmail.com)
 
+[Acesse meu Linkedln](https://www.linkedln.com/in/samyra-caitano-b80634357)
 
 ---
 
