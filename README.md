@@ -4,11 +4,16 @@ Meu nome é **Samyra Caitano Leoncio**, tenho 19 anos e sou estudante de **Ciên
 
 ## 🚀Formação e Qualificações
 
-- Graduação em Ciência da Computação (em andamento);
+- Graduação em Ciência da Computação (3°Semestre);
 - Curso de inglês na Wizard desde agosto de 2020 – Nível avançado;
--  desenvolvimento front-end: HTML, CSS, JavaScript;
-- desenvolvimento back-end: Java, SQL
+- Curso de Informática na CETEF  - concluído em abril de 2025.
 
+
+  
+## Linguagens de Programação
+  
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/CSS-00BFFF?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ## 📚 Objetivo
 
@@ -28,11 +33,15 @@ Banco de Dados
 Modelagem, consulta e manutenção de dados com SQL, aplicando boas práticas de organização e segurança da informação.
 
 
+
+
+
+
 ## 📫 Contato
 
-[Entre em contato comigo](samyra.caitano@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samyra.caitano@gmail.com)
 
-[Acesse meu Linkedln](https://www.linkedln.com/in/samyra-caitano-b80634357)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedln.com/in/samyra-caitano-b80634357)
 
 ---
 
