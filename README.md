@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="C:\Users\C1348805\Downloads\b6ddd5e22e" alt="Banner Samyra Caitano Leoncio" width="100%">
+  <img src="(https://github.com/Samyra19/Samyra19/blob/main/b6ddd5e22e.png?raw=true)" alt="Banner Samyra Caitano Leoncio" width="100%">
 </p>
 
 <!-- Badges -->
