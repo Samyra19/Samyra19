@@ -1,3 +1,19 @@
+<!-- Banner -->
+<p align="center">
+  <img src="C:\Users\C1348805\Downloads\b6ddd5e22e" alt="Banner Samyra Caitano Leoncio" width="100%">
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
 # 👩🏽‍💻​ Samyra Caitano Leoncio
 
 Meu nome é **Samyra Caitano Leoncio**, tenho 19 anos e sou estudante de **Ciência da Computação** **(3° semestre)** na **Universidade Cruzeiro do Sul**, campus São Miguel Paulista. e sou completamente apaixonada por tecnologia! Busco oportunidades para aplicar meus conhecimentos em projetos reais, evoluir minhas habilidades e contribuir para equipes inovadoras!
