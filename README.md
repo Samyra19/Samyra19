@@ -8,7 +8,6 @@ Meu nome é **Samyra Caitano Leoncio**, tenho 19 anos e sou estudante de **Ciên
 <p align= "center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="css">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript">
   <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
@@ -17,7 +16,7 @@ Meu nome é **Samyra Caitano Leoncio**, tenho 19 anos e sou estudante de **Ciên
 
 ## 🚀Formação e Qualificações
 
-- Graduação em Ciência da Computação (3°Semestre);
+- Graduação em Ciência da Computação (4°Semestre);
 - Curso de inglês na Wizard desde agosto de 2020 – Nível avançado;
 - Curso de Informática na CETEF  - concluído em abril de 2025.
  
