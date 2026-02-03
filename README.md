@@ -1,7 +1,7 @@
 <h1 align="center">👩🏽‍💻​ Samyra Caitano Leoncio</h1>
 
 
-Meu nome é **Samyra Caitano Leoncio**, tenho 19 anos e sou estudante de **Ciência da Computação** **(3° semestre)** na **Universidade Cruzeiro do Sul**, campus São Miguel Paulista. e sou completamente apaixonada por tecnologia! Busco oportunidades para aplicar meus conhecimentos em projetos reais, evoluir minhas habilidades e contribuir para equipes inovadoras!
+Meu nome é **Samyra Caitano Leoncio**, tenho 19 anos e sou estudante de **Ciência da Computação** **(4° semestre)** na **Universidade Cruzeiro do Sul**, campus São Miguel Paulista. e sou completamente apaixonada por tecnologia! Busco oportunidades para aplicar meus conhecimentos em projetos reais, evoluir minhas habilidades e contribuir para equipes inovadoras!
 <br>
 <br>
 
